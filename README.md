@@ -1,8 +1,8 @@
 ### Olá 👋
 
 
-- 🔭 Hoje trabalho com desenvolvimento web
-- 🌱 Atualmente estou estudando react
+- 🔭 Hoje trabalho com Desenvolvimento Web
+- 🌱 Atualmente estou estudando React
 
  <div>
   <a href="https://github.com/jadielsanttos">
