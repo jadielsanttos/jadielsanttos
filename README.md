@@ -1,7 +1,8 @@
 ### Olá 👋
 
 
-- 🔭 Atualmente trabalho com Desenvolvimento Web
+- Currently working in personal projects
+- I'm learning python
 
  <div>
   <a href="https://github.com/jadielsanttos">
