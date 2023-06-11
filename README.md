@@ -1,7 +1,6 @@
 ### Hi, my name is Jadiel 👋
 
 🎯 Currently learning react
-
 👨‍💻 Let's talk about code?
 
  <div>
