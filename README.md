@@ -1,7 +1,7 @@
-### Hi, my name is Jadiel👋
+### Hi, my name is Jadiel 👋
 
-
-- Currently working in personal projects
+🎯 Currently learning react
+👨‍💻 Let's talk about code?
 
  <div>
   <a href="https://github.com/jadielsanttos">
