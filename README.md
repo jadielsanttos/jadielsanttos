@@ -1,6 +1,6 @@
 ### Hi, my name is Jadiel 👋
 
-🎯 Currently learning react
+🎯 Currently learning typescript
 
 👨‍💻 Let's talk about code?
 
