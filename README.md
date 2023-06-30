@@ -1,6 +1,6 @@
 ### Hi, my name is Jadiel 👋
 
-🎯 Currently find a new challenge
+🎯 Currently looking for a new challenge
 
 👨‍💻 Let's talk about code?
 
