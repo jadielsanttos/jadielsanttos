@@ -1,6 +1,6 @@
 ### Hi, my name is Jadiel 👋
 
-🎯 Currently learning react
+🎯 Currently find a new challenge
 
 👨‍💻 Let's talk about code?
 
