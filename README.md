@@ -34,3 +34,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-
 <div> 
   <a href="https://www.linkedin.com/in/jadiel-santos-097b7a163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<div> 
+  <a href="https://www.linkedin.com/in/jadiel-santos-097b7a163/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+</div>
