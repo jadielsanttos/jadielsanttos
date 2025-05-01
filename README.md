@@ -8,7 +8,7 @@ Meu nome é **Jadiel Santos**, moro em **São Luís, Brazil** e meu principal ob
 
 No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Neste exato momento, estou envolvido em um projeto que irá impulsionar o crescimento da comunidade tecnológica. 🤝
 
-Também compartilho meus conhecimentos no Linkdedin (em breve no Youtube também), explorando novos conceitos e ensinando de forma interativa, promovendo o conceito de "aprender em público".
+Também compartilho meus conhecimentos no Linkedin (em breve no Youtube também), explorando novos conceitos e ensinando de forma interativa, promovendo o conceito de "aprender em público".
 
 ## 📝 Informações Detalhadas
 
